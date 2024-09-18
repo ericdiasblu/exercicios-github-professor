@@ -1,4 +1,4 @@
-# Exercícios de Lógica Matemática - Equipe 1
+# Exercícios de Lógica Matemática - Equipe 4
 
 Abaixo estão 20 questões de matemática utilizando operações básicas como soma, subtração, multiplicação, divisão e potenciação. Responda cada pergunta no campo "R:" abaixo de cada enunciado. **Note que cada aluno da equipe deve ser responsável por 4 questões apenas, para que todos possam responder.**
 
